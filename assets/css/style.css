@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://images.pexels.com/photos/167579/pexels-photo-167579.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=450&w=710")
+}
+
+.container {
+    padding: 20px;
+    margin-top: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: transparent;
+    border: 5px solid black;  
+    height: 50%;
+}
+
+.mainLabel {
+    font-size: 40px;
+    text-align: center;
+    
+}
+#Start {
+    
+    font-size: 30px;
+    
+}
